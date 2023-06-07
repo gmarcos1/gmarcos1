@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo 🖐️
+## Olá! Eu me chamo Gustavo, curso ciências da computação e uso o github como plataforma para aplicar meus conhecimentos na área de programação
 
 
 
