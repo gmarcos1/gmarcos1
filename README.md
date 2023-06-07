@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-marcos-9167b0240/)
 
 ![gmarcos1 GitHub stats](https://github-readme-stats.vercel.app/api?username=gmarcos1&show_icons=true&theme=merko&count_private=true)
-![gmarcos1 Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarcos1&theme=blue-green) <br>
+![gmarcos1 Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarcos1&theme=blue-green&layout=compact) <br>
 
 
 ## Tecnologias que eu uso/estudo no meu dia a dia
